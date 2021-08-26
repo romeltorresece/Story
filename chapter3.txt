@@ -1,1 +1,2 @@
 This is chapter 3 of my story.
+I added a new line to this chapter.
